@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satyobroto Talukder
 - 👀 I’m interested in web development and AWS cloud
-- 🌱 I’m currently learning JavaScript, React.js, Node.js, and AWS Solutions Architect-Association
+- 🌱 I’m currently learning React.js, Next.js, and AWS Solutions Architect-Association
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
