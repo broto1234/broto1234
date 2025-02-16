@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyobroto Talukder from Denmark.
-- 👀 I’m interested in web development and AWS cloud.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.js, Next.js, and TypeScript.
 - 📫 How to reach me satyo97du@gmail.com
 - <h3 align="left">Languages and Tools:</h3>
