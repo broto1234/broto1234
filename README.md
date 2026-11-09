@@ -1,6 +1,6 @@
 # Hi, I'm Satyobroto Talukder 👋
 
-### Junior Full-Stack Developer | Denmark 🇩🇰
+### Full-Stack Developer | Denmark
 
 I'm a developer passionate about building modern, responsive and reliable web applications. I enjoy working across frontend and backend development, building REST APIs, integrating databases and solving real-world problems through code.
 
@@ -21,7 +21,7 @@ I'm a developer passionate about building modern, responsive and reliable web ap
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/">
